@@ -5,7 +5,7 @@
 An editorial-style personal portfolio website showcasing full-stack projects, financial market engines, 3D WebGL visualizations, and algorithmic problem-solving.
 
 ## 🌐 Live Production Deployments
-- **Portfolio Website**: [Live on Vercel](https://portfolio-arekaluprashanth.vercel.app)
+- **Portfolio Website**: [portfolio-phi-lac-48.vercel.app](https://portfolio-phi-lac-48.vercel.app)
 - **TradeOxx Ai**: [tradeoxx-ai.vercel.app](https://tradeoxx-ai.vercel.app)
 - **Groww Application Simulator**: [groww-application.vercel.app](https://groww-application.vercel.app)
 - **Sorting Algorithm Web App**: [sorting-algo-web-app.vercel.app](https://sorting-algo-web-app.vercel.app)
